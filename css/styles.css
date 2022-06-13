@@ -3,3 +3,8 @@ body{
     color: brown;
     text-align: center;
 }
+footer{
+    background-color: black;
+    color:aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
