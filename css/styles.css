@@ -1,0 +1,31 @@
+body{
+    font-family: serif;
+    color: brown;
+    text-align: center;
+}
+.nav{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0;
+
+}
+.nav a{
+    font-family: 'Courier New', Courier, monospace;
+    color:azure;
+    margin-right: 3rem;
+    text-decoration: none;
+    font-weight: 300;
+}
+footer{
+    background-color: black;
+    color:aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mensaje{
+    font-weight: 800;
+    background-color: brown;
+    color: aliceblue;
+    font-size: larger;
+}
